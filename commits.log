@@ -1,0 +1,98 @@
+commit 93068a12448a6eedae2b4c5cd77efd66eddb3658
+Author: Mario Ezqueda <maykrayados@gmail.com>
+Date:   Thu Dec 19 19:12:32 2024 -0600
+
+    Agregando 2 párrafos
+
+commit 246d48774f164869888a014e8d86ac22c8c17749
+Merge: 4488c10 3b7c530
+Author: Mario Ezqueda <maykrayados@gmail.com>
+Date:   Thu Dec 19 19:04:47 2024 -0600
+
+    Resolviendo conflicto en estaciones del año y fecha de inicio
+
+commit 4488c108ecc5076e409a1fc5966107b62509f013
+Author: Mario Ezqueda <maykrayados@gmail.com>
+Date:   Thu Dec 19 18:31:32 2024 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 3b7c530928f71f0268f31bab0c79e74b10f84415
+Author: Mario Ezqueda <maykrayados@gmail.com>
+Date:   Thu Dec 19 18:31:32 2024 -0600
+
+    Agregando las estaciones del año
+
+commit 189cdc20b58f7da7b9050e7c03ed89f4a756b37f
+Merge: cbcb485 2e7bbe2
+Author: Mario Ezqueda <maykrayados@gmail.com>
+Date:   Thu Dec 19 15:33:28 2024 -0600
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 2e7bbe2abd103ec192f2904fefa0647c527295b6
+Author: Mario Ezqueda <maykrayados@gmail.com>
+Date:   Thu Dec 19 15:25:12 2024 -0600
+
+    agregando index.js al index.html
+
+commit cbcb485848cd38cb03d0bc985449fc6bf211db9f
+Author: Mario Ezqueda <maykrayados@gmail.com>
+Date:   Thu Dec 19 15:22:43 2024 -0600
+
+    Agregando styles.css al index.html
+
+commit dc3f6b72c294b17da0a3cf949ba4462b4936a7b8
+Merge: b927b93 dac95e5
+Author: Mario Ezqueda <maykrayados@gmail.com>
+Date:   Thu Dec 19 13:04:01 2024 -0600
+
+    Merge branch 'js'
+
+commit dac95e54884df5fe5414b1350619d0e71c8fa2e4
+Author: Mario Ezqueda <maykrayados@gmail.com>
+Date:   Thu Dec 19 12:53:50 2024 -0600
+
+    Creando index.js
+
+commit b927b931186e19200129013903b3a60100c81191
+Author: Mario Ezqueda <maykrayados@gmail.com>
+Date:   Thu Dec 19 12:36:02 2024 -0600
+
+    Creando styles.css
+
+commit 669e78f84486d0ea366cc24f6bf2581b3bcfed11
+Author: Mario Ezqueda <maykrayados@gmail.com>
+Date:   Thu Dec 19 12:27:49 2024 -0600
+
+    Creando archivo index.html
+
+commit b468440828099125d925fe1a7a43f235cd39a1f9
+Author: Mario Ezqueda <maykrayados@gmail.com>
+Date:   Wed Dec 18 21:09:38 2024 -0600
+
+    ignorando archivos .exe
+
+commit 5eafe886521c8f84b89b4c3797488abcf42979c8
+Author: Mario Ezqueda <63989580+maeb10@users.noreply.github.com>
+Date:   Wed Dec 18 16:45:37 2024 -0600
+
+    Creando licencia del repositorio
+
+commit 43572700808fa9ccdc8ea5fc2f59cb3124b9e905
+Author: Mario Ezqueda <maykrayados@gmail.com>
+Date:   Wed Dec 18 16:38:07 2024 -0600
+
+    Agregando más contenido al README
+
+commit 3c18778d992b784d81d29c76dce600b5acd78810
+Author: Mario Ezqueda <maykrayados@gmail.com>
+Date:   Wed Dec 18 16:12:50 2024 -0600
+
+    Agregando contenido inicial al README
+
+commit 5bfa4d781d1eeed4e1c897eb8e20874b59d4dd62
+Author: Mario Ezqueda <maykrayados@gmail.com>
+Date:   Wed Dec 18 16:06:21 2024 -0600
+
+    Primer commit
